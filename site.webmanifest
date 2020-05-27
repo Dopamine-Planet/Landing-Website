@@ -1,0 +1,18 @@
+{
+    "short_name": "Dopamine",
+    "lang": "en",
+    "name": "Dopamine - Let Positivity Engulf You",
+    "description": "An ongoing investigation on positivity, a collection of some candid first-hand experiences.",
+    "icons": [
+      {
+        "src": "/assets/img/logo.png",
+        "type": "image/png",
+        "sizes": "165x44"
+      }
+    ],
+    "start_url": "/",
+    "background_color": "#F7F7F7",
+    "display": "standalone",
+    "scope": "/",
+    "theme_color": "#8629A5"
+  }
