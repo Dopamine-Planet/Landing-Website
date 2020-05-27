@@ -1,3 +1,16 @@
+@import "./bootstrap.min.css";
+@import "./owl.carousel.min.css";
+@import "./flaticon.min.css";
+@import "./slicknav.min.css";
+@import "./animate.min.css";
+@import "./magnific-popup.min.css";
+@import "./fontawesome-all.min.css";
+@import "./themify-icons.min.css";
+@import "./slick.min.css";
+@import "./nice-select.min.css";
+@import "./style.css";
+
+
 .footer-social li {
   display: inline-block;
 }
